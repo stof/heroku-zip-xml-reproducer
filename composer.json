@@ -1,0 +1,11 @@
+{
+    "name": "stof/heroku-zip-xml-reproducer",
+    "type": "project",
+    "require": {
+        "php": "8.2.*",
+        "ext-libxml": "*",
+        "ext-xmlreader": "*",
+        "ext-zip": "*"
+    },
+    "license": "MIT"
+}
