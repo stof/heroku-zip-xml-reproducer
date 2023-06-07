@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/../vendor/autoload.php';
+require __DIR__ . '/vendor/autoload.php';
 
 $filePath = 'zip://' . __DIR__ . '/debug.xlsx#xl/sharedStrings.xml';
 
